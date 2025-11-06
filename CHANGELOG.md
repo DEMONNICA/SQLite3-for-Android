@@ -2,7 +2,7 @@
 > - All significant changes to this project will be documented here.
 ---
 
-> [3.51.0]
+> [3.51.0] `2025-11-04`
 >
 > - Updated SQLite binary version from 3.50.4 (2025-07-30) to 3.51.0 (2025-11-04) in `service.sh` description and notification message.
 > - Enhanced APatch detection in `service.sh` and `customize.sh` with detailed version fetching: VAPK from `dumpsys package`, VKER from GitHub API `curl`, and storage in `/data/adb/ap/kernelver` for consistent `ROOT_VERSION` formatting.
