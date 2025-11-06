@@ -1,0 +1,7 @@
+id=SQLITE3
+name=SQLite3 for Android
+version=3.51.0
+versionCode=20251108
+author=@illumi
+description=Universal SQLite3 binary installer for multiple architectures.
+banner=https://raw.githubusercontent.com/DEMONNICA/SQLite3-for-Android/refs/heads/main/SQLITE3.jpg
