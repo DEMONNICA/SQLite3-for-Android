@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/2720e589-7e43-4f35-95aa-a29f6315be2a)
+> ![Image](https://github.com/user-attachments/assets/c4eb1ca8-8b54-4a84-9e7b-8bfd10e85ca9)
 
 > [!NOTE]
 > - This module provides an optimized version of SQLite3 for various Android architectures.
@@ -6,7 +6,7 @@
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. SQLite version `3.51.0 2025-11-04 19:38:17` ✔️
+> 1. SQLite version `3.51.1 2025-11-28 17:28:25` ✔️
 > 2. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
 > 3. Automatic architecture detection. ✔️
 > 4. Delete unused binary files automatically. ✔️
