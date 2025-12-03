@@ -2,6 +2,20 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [3.51.0] `2025-11-28`
+>
+> - Updated SQLite binary version from 3.51.0 (2025-11-04) to 3.51.1 (2025-11-28) in `service.sh` description and notification message.
+> - Changes to the module banner for `KSUN` users and Added `uninstall.sh`.
+> - `service.sh`: Updated root detection to read persistent `.method` files for KernelSU and Magisk, with fallback version extraction.
+> - Changed unknown values to "?" in APatch version handling for consistency.
+> - Added dynamic SQLite version retrieval via `su -c 'sqlite3 --version'` to display actual installed version in module description.
+> - Replaced hardcoded SQLite version (3.51.0) with variable `$SQL_VER` in description and notification message.
+> - `customize.sh`: Split root detection into separate functions: `root_detect_magisk`, `root_detect_apatch`, `root_detect_ksunki` with variant identification (e.g., Magisk Stable/Canary/Kitsune/Alpha, KernelSU/Next/SukiSU Ultra).
+> - Added persistent `.method` file writing for all root methods (Magisk, APatch, KernelSU) to store detected variant.
+> - Enhanced APatch version handling with "?" defaults and GitHub API for KernelPatch tag; updated KSU with `su --version` for codes.
+> - In `sqlite_prjkt`: Added `chmod 755`, `chcon` for SELinux, symbolic link `/system/bin/sqlite`, and error-handling around binary move; included `uninstall.sh` in `set_permissions`.
+---
+
 > [3.51.0] `2025-11-04`
 >
 > - Updated SQLite binary version from 3.50.4 (2025-07-30) to 3.51.0 (2025-11-04) in `service.sh` description and notification message.
