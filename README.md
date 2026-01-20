@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/c4eb1ca8-8b54-4a84-9e7b-8bfd10e85ca9)
+> ![Image](https://github.com/user-attachments/assets/45d83c3e-10f8-4b96-a4cf-c82ee4a3abb7)
 
 > [!NOTE]
 > - This module provides an optimized version of SQLite3 for various Android architectures.
@@ -6,7 +6,7 @@
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. SQLite version `3.51.1 2025-11-28 17:28:25` ✔️
+> 1. SQLite version `3.51.2 2026-01-09 17:27:48` ✔️
 > 2. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
 > 3. Automatic architecture detection. ✔️
 > 4. Delete unused binary files automatically. ✔️
@@ -43,6 +43,7 @@ You can also show further appreciation by donating below
 <hr/>
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
-[![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
-[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
-[![Paypal](https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
+[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-FF6B2A?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/demonica/tribe)
+[![Trakteer](https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge)](https://trakteer.id/demonica/tip)
+[![Saweria](https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logoColor=black)](https://saweria.co/DEMONICA)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
