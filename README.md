@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/45d83c3e-10f8-4b96-a4cf-c82ee4a3abb7)
+> <img width="3264" height="1836" alt="Image" src="https://github.com/user-attachments/assets/ac40fd33-9ff5-4815-b5e9-e2f02472fc6c" />
 
 > [!NOTE]
 > ```
@@ -7,7 +7,7 @@
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. SQLite version `3.51.3 2026-03-13 10:38:09`
+> 1. SQLite version `3.53.0 2026-04-09 11:41:38`
 > 2. Supports `ARM64, ARMv7a, x86, and x86_64` architectures.
 > 3. Backs up original `/system/bin/sqlite3` before replacing.
 > 4. Restores original `sqlite3` automatically on uninstall.
