@@ -1,7 +1,8 @@
 id=SQLITE3
 name=SQLite3 for Android
-version=3.53.0
-versionCode=20260409
+version=3.53.4
+versionCode=20260724
 author=@illumi
-description=Universal SQLite3 binary installer for multiple architectures.
+description=Replaces system SQLite3 with an optimized build and auto-optimizes all system databases.
 banner=https://raw.githubusercontent.com/DEMONNICA/SQLite3-for-Android/refs/heads/main/SQLITE3.jpg
+axeronPlugin=666
